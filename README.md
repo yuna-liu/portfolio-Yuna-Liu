@@ -4,7 +4,7 @@
 # Yuna Liu
 I am a doctor in economy and was a teacher in Finance and Banking, real estate finance, Mathematics and Statistics etc. 
 
-Now I change my track to study programming in Python, running towards to be a developer in Artificial Intelligence(Ai) and Machine Learning(ML). 
+Now I change my track to study programming in Python, running towards o be a developer in Artificial Intelligence(Ai) and Machine Learning(ML). 
 
 My ambition is to be a specilist in Fintech after two years study and practice.  
 
@@ -16,7 +16,7 @@ My ambition is to be a specilist in Fintech after two years study and practice.
 | Repo                               | Description                            |
 | ---------------------------------- | -------------------------------------- |
 | [Python programming][pytprog]      | introduction course                    |
- |
+ 
 
 [pytprog]: https://github.com/kokchun/Programmering-med-Python
 
