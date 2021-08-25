@@ -18,7 +18,7 @@ My ambition is to be a specilist in Fintech after two years study and practice.
 | [Python programming][pytprog]      | introduction course                    |
  
 
-[pytprog]: https://github.com/kokchun/Programmering-med-Python
+[pytprog]: https://github.com/yuna-liu/python-programming-Yuna-Liu
 
 
 
