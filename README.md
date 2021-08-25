@@ -27,4 +27,4 @@ My ambition is to be a specilist in Fintech after two years study and practice.
 ## Contact me :iphone:
 - [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedIn]
 
-[linkedIn]: linkedin.com/in/yuna-liu-9a21b63a
+[linkedIn]: https://www.linkedin.com/in/yuna-liu-9a21b63a/
